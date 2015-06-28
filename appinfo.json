@@ -1,0 +1,29 @@
+{
+  "uuid": "ab5e3a1b-6d01-4487-8af9-326b2e82623f",
+  "shortName": "OoyalaPlazaWatch",
+  "longName": "OoyalaPlazaWatch",
+  "companyName": "MakeAwesomeHappen",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["basalt"],
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+      {
+        "type": "raw",
+        "name": "LOGO_ANIMATION",
+        "file": "ooyala.png"
+      },
+      {
+        "type": "font",
+        "name": "FONT_ROBOTO_MEDIUM_28",
+        "file": "Roboto_Medium.ttf"
+      }
+    ]
+  }
+}
